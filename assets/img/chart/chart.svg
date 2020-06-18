@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1074" height="285" viewBox="0 0 1074 285">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4379ee" stop-opacity="0.161"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.176"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-32 -105)">
+    <g id="units" transform="translate(32 108)">
+      <text id="_40k" data-name="40k" transform="translate(682.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">40k</tspan></text>
+      <text id="_45k" data-name="45k" transform="translate(768.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">45k</tspan></text>
+      <text id="_50k" data-name="50k" transform="translate(854.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">50k</tspan></text>
+      <text id="_55k" data-name="55k" transform="translate(940.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">55k</tspan></text>
+      <text id="_60k" data-name="60k" transform="translate(1026.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.296" y="0">60k</tspan></text>
+      <text id="_5k" data-name="5k" transform="translate(83 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-6.702" y="0">5k</tspan></text>
+      <text id="_10k" data-name="10k" transform="translate(166 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">10k</tspan></text>
+      <text id="_15k" data-name="15k" transform="translate(252 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">15k</tspan></text>
+      <text id="_20k" data-name="20k" transform="translate(338 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">20k</tspan></text>
+      <text id="_25k" data-name="25k" transform="translate(424 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">25k</tspan></text>
+      <text id="_35k" data-name="35k" transform="translate(596.5 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">35k</tspan></text>
+      <text id="_30k" data-name="30k" transform="translate(510 278)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="-10.302" y="0">30k</tspan></text>
+      <text id="_20_" data-name="20%" transform="translate(0 245)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="0" y="0">20%</tspan></text>
+      <g id="Line" transform="translate(76 4)" opacity="0.7">
+        <path id="Line-2" data-name="Line" d="M0,.5H997.159" transform="translate(0 236)" fill="#fff" stroke="#eaeaea" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Line-3" data-name="Line" d="M0,.5H997.159" transform="translate(0 177)" fill="#fff" stroke="#eaeaea" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Line-4" data-name="Line" d="M0,.5H997.159" transform="translate(0 118)" fill="#fff" stroke="#eaeaea" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Line-5" data-name="Line" d="M0,.5H997.159" transform="translate(0 59)" fill="#fff" stroke="#eaeaea" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Line-6" data-name="Line" d="M0,.5H997.159" fill="#fff" stroke="#eaeaea" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <text id="_40_" data-name="40%" transform="translate(0 186)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="0" y="0">40%</tspan></text>
+      <text id="_60_" data-name="60%" transform="translate(0 127)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="0" y="0">60%</tspan></text>
+      <text id="_80_" data-name="80%" transform="translate(0 68)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="0" y="0">80%</tspan></text>
+      <text id="_100_" data-name="100%" transform="translate(0 9)" fill="rgba(43,48,52,0.4)" font-size="12" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="0" y="0">100%</tspan></text>
+    </g>
+    <g id="Graph" transform="translate(108 157)">
+      <path id="Gradient" d="M0,194.357l6.317-21.614,22.146-.928,15.48-8.107,16.184-.446,11.793-11.92,10.373-30.99,6.649-11.088L106.7,132.391l14.443,3.519,10.568-6.714,12.751-29.6,36.56,60.012,15.052-25.848,17.258,12.974,9.3-19.781,1.815-9.49,14.009-9.692,7.235-13.17,8,18.4-1.323,12.08,7.376,1.787,5.723-5.377L280.4,0l13.9,147.993,12.383-15.913v-9.088l10.585-9.391,4.956-7.2,9.12-10.826,21.681,11.289L363.827,113l8.713-3.972,15.2,17.852,22.106-35.086,6.467,19.133,13.861,13.236,13.436-4.239,6.275-9,10.046-4.065,1.266-7.727,11.464-19,16.83,5.4,5.131-16.887L517.7,179.417l16.453-22.152,21.681-1.549,25.981,15.722,10.093-61.328,12.662,3.452,5.959-7.208,3.357,2.3,6.3-.7,3.6,3.1,10,2.023.178,6.862,11.952,4.35,14.935-.963.784-11.487L650.376,36.669,676.6,67.488l13.123,10.355L722.56,56.667l18.529,15.057H753.7l8.135,9.444,9.881,10.626,52.78,3.782,8.483-15.442,35.572,44.024L889.032,85.53,910.07,99.086l19.86-17.048L951.9,95.576l16.6,8.833,9.322-2.7L988.119,94.6,998,85.53V194.357H0Z" transform="translate(0 0.643)" fill="url(#linear-gradient)"/>
+      <path id="Ouline_Graph" data-name="Ouline Graph" d="M0,195.357l6.383-22.427L28.525,172,44,163.882l16.181-.446L71.975,151.5l10.371-31.033,6.786-11.1,17.619,23.16,14.441,3.524,10.566-6.724,12.553-30.1,36.751,60.561,15.05-25.883,17.255,12.992,9.3-19.808,1.814-9.5,14.006-9.705,7.234-13.189,7.995,18.423-1.323,12.1,7.375,1.789,5.722-5.385L280.4,0l13.924,148.146,12.381-15.935v-9.1l10.583-9.4,4.955-7.208,9.119-10.841,21.678,11.3,10.792,6.144,8.712-3.977L387.741,127l22.1-35.134,6.466,19.16,13.858,13.255,13.434-4.245,6.274-9.012,10.045-4.071,1.266-7.738,11.462-19.025,16.827,5.4L494.7,70.522,517.68,179.613l16.45-22.182,21.678-1.552,25.976,15.744,10.092-61.412,12.66,3.457,5.958-7.218,3.356,2.305,6.3-.7,3.6,3.106,10,2.026.178,6.872,11.95,4.356,14.932-.964.784-11.5L650.376,36.669l26.182,30.862L689.679,77.9l32.83-21.2,18.257,15.078h12.61l18.264,20.1,24.778,3.787h27.723l8.479-15.464,19.426,24.189L868.178,125.2,889.128,85.6S908.3,100.25,910.5,99.219,931.03,82.006,931.03,82.006L948.8,94.683,970.045,106.5l17.643-10.841L996,85.6h-1.106" transform="translate(0 0.643)" fill="none" stroke="#4379ee" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g id="Top_Sale" data-name="Top Sale" transform="translate(348 119)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M34,22H46l-6,5.978ZM2,22a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H78a2,2,0,0,1,2,2V20a2,2,0,0,1-2,2Z" fill="#4880ff"/>
+      <text id="_64_3664.77" data-name="64,3664.77" transform="translate(10 14)" fill="#fff" font-size="12" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="0">64,3664.77</tspan></text>
+    </g>
+    <g id="Point" transform="translate(105 149)">
+      <circle id="Oval" cx="4" cy="4" r="4" transform="translate(279)" fill="#4880ff"/>
+      <circle id="Oval-2" data-name="Oval" cx="4" cy="4" r="4" transform="translate(245 99)" fill="#4379ee"/>
+      <circle id="Oval-3" data-name="Oval" cx="4" cy="4" r="4" transform="translate(180 163)" fill="#4379ee"/>
+      <circle id="Oval-4" data-name="Oval" cx="4" cy="4" r="4" transform="translate(144 103)" fill="#4379ee"/>
+      <circle id="Oval-5" data-name="Oval" cx="4" cy="4" r="4" transform="translate(88 112)" fill="#4379ee"/>
+      <circle id="Oval-6" data-name="Oval" cx="4" cy="4" r="4" transform="translate(58 167)" fill="#4379ee"/>
+      <circle id="Oval-7" data-name="Oval" cx="4" cy="4" r="4" transform="translate(0 197)" fill="#4379ee"/>
+      <circle id="Oval-8" data-name="Oval" cx="4" cy="4" r="4" transform="translate(330 100)" fill="#4379ee"/>
+      <circle id="Oval-9" data-name="Oval" cx="4" cy="4" r="4" transform="translate(409 94)" fill="#4379ee"/>
+      <circle id="Oval-10" data-name="Oval" cx="4" cy="4" r="4" transform="translate(494 73)" fill="#4379ee"/>
+      <circle id="Oval-11" data-name="Oval" cx="4" cy="4" r="4" transform="translate(516 183)" fill="#4379ee"/>
+      <circle id="Oval-12" data-name="Oval" cx="4" cy="4" r="4" transform="translate(581 175)" fill="#4379ee"/>
+      <circle id="Oval-13" data-name="Oval" cx="4" cy="4" r="4" transform="translate(650 41)" fill="#4379ee"/>
+      <circle id="Oval-14" data-name="Oval" cx="4" cy="4" r="4" transform="translate(659 126)" fill="#4379ee"/>
+      <circle id="Oval-15" data-name="Oval" cx="4" cy="4" r="4" transform="translate(688 81)" fill="#4379ee"/>
+      <circle id="Oval-16" data-name="Oval" cx="4" cy="4" r="4" transform="translate(720 61)" fill="#4379ee"/>
+      <circle id="Oval-17" data-name="Oval" cx="4" cy="4" r="4" transform="translate(832 84)" fill="#4379ee"/>
+      <circle id="Oval-18" data-name="Oval" cx="4" cy="4" r="4" transform="translate(867 130)" fill="#4379ee"/>
+      <circle id="Oval-19" data-name="Oval" cx="4" cy="4" r="4" transform="translate(888 89)" fill="#4379ee"/>
+      <circle id="Oval-20" data-name="Oval" cx="4" cy="4" r="4" transform="translate(930 87)" fill="#4379ee"/>
+    </g>
+  </g>
+</svg>
